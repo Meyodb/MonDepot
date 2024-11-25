@@ -1,9 +1,11 @@
 Bonjour Wassim
 
-<<<<<<< HEAD
+
 Aurevoir Mehdi
-=======
+
 Conflit 
 Conflit Wassim
 
->>>>>>> c0bcab59738fd15acce02bb9b2862aa9e8b9484f
+
+Conflit Mehdi
+
